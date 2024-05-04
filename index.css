@@ -1,0 +1,22 @@
+/* CSS */
+/* Cascading Style Sheets  */
+
+/* Different Ways to write CSS */
+/* 1. Inline CSS */
+
+/* example of Inline CSS: */
+/* <p style="border: 1px solid black">This is a paragraph</p> */
+
+/* 2. Internal CSS */
+/* when you write css inside head tag using Style tag inside the same file  */
+
+
+/* 3. External CSS */
+/* when you create a separate file for CSS related to the html file, it is an external css */
+
+p{
+    background-color: red;
+}
+button{
+    border:1px solid green;
+}
